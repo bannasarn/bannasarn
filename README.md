@@ -1,3 +1,15 @@
-# Hello, I'm Bannasarn Boonmee
+<h2> Let me introduce my self
+<br />
 
-- I am a programmer, I have no life.
+```javascript
+const me = {
+  name: {
+    firstName: "BANNASARN",
+    lastName: "BOONMEE",
+    nickName: "BIGGS",
+  },
+  age: 31,
+  footballClub: "Arsenal",
+  work: "KTB"
+};
+```
