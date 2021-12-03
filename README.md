@@ -8,8 +8,6 @@ const me = {
     lastName: "BOONMEE",
     nickName: "BIGGS",
   },
-  age: 31,
   footballClub: "Arsenal",
-  work: "KTB"
 };
 ```
